@@ -19,3 +19,9 @@ The statistical analysis helps us to analyzed data pattern. It will give informa
 Determine the outliers: The outliers can bias the model. Right now, I am not sure whether I will remove the outliers or not, but I will check outliers with the use of Box plot. 
 ## Model Analysis:
 Our goal is to find the best quality cannabis plant. To achieve this, we are going to use Logistic regression model and Support vector machine (SVM) model.
+## Results:
+### Optimized Linear Regression
+![](https://github.com/salehas222/cannabis_model/blob/master/image/Linear.PNG)
+
+### Optimized SVM 
+![](https://github.com/salehas222/cannabis_model/blob/master/image/svm.PNG)
